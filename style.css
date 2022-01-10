@@ -1,0 +1,41 @@
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px,5px,5px, red;
+    font-family: 'Pacifico', cursive;
+    
+}
+#div_1{
+    font-size: 20px;
+    font-family: 'Pacifico', cursive;
+    background-color: whitesmoke;
+    width: 25%;
+    text-align: center;
+    border-radius: 105px;
+}
+#bedroom{
+    color: black;
+}
+#div_2{
+    font-size: 20px;
+    font-family: 'Pacifico', cursive;
+    background-color: whitesmoke;
+    width: 25%;
+    text-align: center;
+    border-radius: 105px;
+}
+#tv{
+    color: black;
+}
+#div_3{
+    font-size: 20px;
+    font-family: 'Pacifico', cursive;
+    background-color: whitesmoke;
+    width: 25%;
+    text-align: center;
+    border-radius: 105px;
+}
+#study_table{
+    color: black;
+}

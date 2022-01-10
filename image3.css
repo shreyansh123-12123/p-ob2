@@ -1,0 +1,22 @@
+
+.heading{
+    font-size: 30px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px,5px,5px, red;
+    font-family: 'Pacifico', cursive;
+    
+}
+.button{
+    font-size: 25px;
+    font-family: 'Pacifico', cursive;
+    border-radius: 15px;
+    background: black;
+}
+.heading_2{
+font-size: 25px;
+background: orange;
+font-family: 'Pacifico', cursive;
+width: 50%;
+
+}
